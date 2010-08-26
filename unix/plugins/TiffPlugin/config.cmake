@@ -1,0 +1,2 @@
+PLUGIN_REQUIRE_INCLUDE(TIFF tiffio.h /usr/include/)
+PLUGIN_FIND_LIBRARY(TIFF tiff)
